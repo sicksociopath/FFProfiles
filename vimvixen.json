@@ -43,9 +43,11 @@
     "gU": { "type": "navigate.root" }
   },
   "search": {
-    "default": "duckduckgo",
+    "default": "searx.be",
     "engines": {
-      "duckduckgo": "https://duckduckgo.com/?q={}"
+      "searx.be": "https://searx.be/?q={}",
+      "yt": "https://yewtu.be/search?q={}",
+      "arch": "https://wiki.archlinux.org/index.php?search={}"
     }
   },
   "properties": {
