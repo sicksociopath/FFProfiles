@@ -1,0 +1,2 @@
+# My Firefox Profiles
+---
